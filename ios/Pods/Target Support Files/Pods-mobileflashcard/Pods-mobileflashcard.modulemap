@@ -1,0 +1,6 @@
+module Pods_mobileflashcard {
+  umbrella header "Pods-mobileflashcard-umbrella.h"
+
+  export *
+  module * { export * }
+}
