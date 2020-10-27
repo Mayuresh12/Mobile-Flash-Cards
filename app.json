@@ -1,9 +1,9 @@
 {
-  "name": "mobile_flash_card",
-  "displayName": "mobile_flash_card",
+  "name": "mobile-flashcards2",
+  "displayName": "mobile-flashcards2",
   "expo": {
-    "name": "mobile_flash_card",
-    "slug": "mobile_flash_card",
+    "name": "mobile-flashcards2",
+    "slug": "mobile-flashcards2",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
